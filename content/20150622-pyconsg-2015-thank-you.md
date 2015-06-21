@@ -52,7 +52,7 @@ Last but not least, as the chair of this conference, I would like to thank the
 organizing committee for all their hard work in the past year to make this
 conference a reality. We will soon be opening a call for volunteers for
 PyCon SG 2016; if you are interested in helping out with the conference (no
-technical chops required), look out for our next meeting!
+technical chops required), stay subscribed to our [Google Group](https://groups.google.com/forum/#!forum/pythonsg) and [Facebook Group](https://www.facebook.com/groups/pythonsg/) and look out for our next meeting!
 
 
 Sincerely, Victor Neo
